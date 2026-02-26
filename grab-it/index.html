@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>抓盘</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="description" content="抓盘可以让你直接下载网盘分享链接中的文件，免去广告和登录的烦恼。云智API提供技术支持。仅供个人学习使用，严禁用于违法用途！">
+        <link rel="stylesheet" href="https://stackedit.cn/style.css">
+    </head>
+    <body>
+        <h1>&emsp;抓盘</h1>
+        <p>&emsp;&emsp;抓盘可以让你直接下载网盘分享链接中的文件，免去广告和登录的烦恼。</p>
+        <blockquote>&emsp;仅供个人学习使用，严禁用于违法用途！</blockquote>
+        <form>
+                &emsp;选择分享链接来源：
+            <div style="margin-bottom: 15px;">
+                &emsp;
+                <input type="radio" id="tab123" name="cloudType" value="123" checked>
+                <label for="tab123">123云盘</label>
+                <input type="radio" id="tabLanzou" name="cloudType" value="lanzou">
+                <label for="tabLanzou">蓝奏云存储</label>
+            </div>
+        </form>
+        <input placeholder="输入分享链接" id="inputUrl" style="width: 80%; height: 40px; font-size: 16px; padding: 5px; margin-bottom: 10px;">
+        <button onclick="download()" style="width: 15%; height: 40px; font-size: 16px; margin-left: 5px;">获取下载链接</button>
+        <div id="resultMsg" style="margin-top: 20px;"></div>
+        <div id="toDownload"></div>
+        <p style="text-align: center;">
+            <a href="https://gitcode.com/gcw_mWupIUzb/grab-it/issues">意见反馈</a>
+            <a href="https://api.jkyai.top/">云智API</a>提供技术支持<br>
+        </p>
+        <script src="index.js"></script>
+    </body>
+</html>
