@@ -5,6 +5,12 @@
     <a href="https://gitcode.com/gcw_mWupIUzb/STtool/stargazers">
         <img src="https://gitcode.com/gcw_mWupIUzb/STtool/star/badge.svg">
     </a>
+    <a href="https://github.com/stxttkx/STtool/stargazers">
+        <img src="https://img.shields.io/github/stars/stxttkx/STtool.svg">
+    </a>
+    <a href="https://github.com/stxttkx/STtool/forks">
+        <img src="https://img.shields.io/github/forks/stxttkx/STtool.svg">
+    </a>
     <a href="https://www.eclipse.org/legal/epl-2.0/">
         <img src="https://img.shields.io/badge/license-EPL_2.0-blue">
     </a>
