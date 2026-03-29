@@ -28,6 +28,15 @@
 
 [点击查看说明文档](./grab-it/README.md)
 
+## 意见反馈
+
+>[!IMPORTANT]
+> 发送意见反馈时请注明问题工具的名称，否则概不受理。
+
+[在GitCode上提交issue](https://gitcode.com/gcw_mWupIUzb/STtool/issues/create/choose)
+[在GitHub上提交issue](https://github.com/stxttkx/STtool/issues/new)
+[在CodeBerg上提交issue](https://codeberg.org/stxttkx/STtool/issues/new)
+
 ## 开源许可
 
 本仓库使用[EPL-2.0](LICENSE)开源协议。请严格遵守开源协议！违规一经发现，严肃处理！
