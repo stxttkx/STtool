@@ -28,14 +28,9 @@
 
 [点击查看说明文档](./grab-it/README.md)
 
-## 意见反馈
+## 意见反馈/贡献代码
 
->[!IMPORTANT]
-> 发送意见反馈时请注明问题工具的名称，否则概不受理。
-
-[在GitCode上提交issue](https://gitcode.com/gcw_mWupIUzb/STtool/issues/create/choose)
-[在GitHub上提交issue](https://github.com/stxttkx/STtool/issues/new)
-[在CodeBerg上提交issue](https://codeberg.org/stxttkx/STtool/issues/new)
+详见[贡献指南](./CONTRIBUTING.md)。
 
 ## 开源许可
 
